@@ -1,3 +1,4 @@
+adding line on top to change instead of scrolling all the way to the last line to edit
 this is my first test file to work on git
 adding a new line of text
 adding third line of text for git commit message editor testing
