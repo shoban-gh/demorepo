@@ -1,2 +1,3 @@
 this is my first test file to work on git
 adding a new line of text
+adding third line of text for git commit message editor testing
