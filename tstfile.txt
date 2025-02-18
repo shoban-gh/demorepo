@@ -1,3 +1,4 @@
+adding line to check git ignore
 adding line to check unstage
 adding line to check git add and commit at the same time using git commit -a -m option with cmt msg
 adding line on top to change instead of scrolling all the way to the last line to edit
