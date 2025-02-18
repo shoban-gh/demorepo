@@ -1,3 +1,4 @@
+adding line to check git add and commit at the same time using git commit -a -m option with cmt msg
 adding line on top to change instead of scrolling all the way to the last line to edit
 this is my first test file to work on git
 adding a new line of text
