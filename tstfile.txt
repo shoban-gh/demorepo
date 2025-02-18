@@ -2,3 +2,4 @@ this is my first test file to work on git
 adding a new line of text
 adding third line of text for git commit message editor testing
 adding 4th line of txt to avoid opening the commit editor
+adding 5th line of txt to check git diff
